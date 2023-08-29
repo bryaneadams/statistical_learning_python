@@ -1,0 +1,17 @@
+numpy>=1.7.1,<1.25
+scipy>=0.9
+pandas>=0.20
+pandas<=1.9
+lxml 
+scikit-learn>=1.2
+joblib
+statsmodels>=0.13
+lifelines
+pygam
+torch
+pytorch_lightning
+torchmetrics
+ISLP==0.3.19
+ipykernel
+keras
+tensorflow

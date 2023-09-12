@@ -15,3 +15,4 @@ ISLP==0.3.19
 ipykernel
 keras
 tensorflow
+seaborn
